@@ -2,6 +2,6 @@ Quis - Laravel
 Dosen Pengampu : Mr. Suendri, M.Kom
 
 
-Nama  : Jumjumi Asbullah
-NIM   : 0702193170
-Prodi : Sistem Informasi 2
+Nama  : Isma Nurlita Dalimunthe
+NIM   : 0702192027
+Prodi : Sistem Informasi-2
